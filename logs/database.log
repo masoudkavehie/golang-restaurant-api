@@ -1,0 +1,6 @@
+2023/11/30 17:56:12 failed to connect to `host=localhost user=root database=resturant`: dial error (dial tcp 127.0.0.1:5432: connect: connection refused)
+2023/12/01 08:56:14 failed to connect to `host=localhost user=root database=resturant`: server error (FATAL: database "resturant" does not exist (SQLSTATE 3D000))
+2023/12/01 08:56:53 failed to connect to `host=localhost user=root database=resturant`: server error (FATAL: database "resturant" does not exist (SQLSTATE 3D000))
+2023/12/01 09:12:23 Error creating database: ERROR: syntax error at or near "NOT" (SQLSTATE 42601)
+2023/12/01 09:51:34 failed to connect to `host=localhost user=root database=postgres`: dial error (dial tcp 127.0.0.1:5432: connect: connection refused)
+2023/12/01 09:58:52 failed to connect to `host=/tmp user=masoud database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)
